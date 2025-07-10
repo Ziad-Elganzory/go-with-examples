@@ -4,17 +4,17 @@ Welcome to the **GO With Examples** project repository!
 
 ## Overview
 
-This repository contains the source code and resources for the GO project. It is designed to [briefly describe the purpose or functionality of GO LANG principles].
+This repository contains the source code and resources for the GO principles. It is designed to [briefly describe the purpose or functionality of GO LANG principles]. [Official Examples](https://gobyexample.com/)
 
 ## Table of Content
 
-- 1.Hello World
-- 2.Values
-- 3.Variables
-- 4.Constants
-- 5.For Loop
-- 6.If-Else
-- 7.Switch
+- 1.[Hello World](https://github.com/Ziad-Elganzory/go-with-examples/blob/main/1.Hello%20World/hello_world.go)
+- 2.[Values](https://github.com/Ziad-Elganzory/go-with-examples/blob/main/2.Values/values.go)
+- 3.[Variables](https://github.com/Ziad-Elganzory/go-with-examples/blob/main/3.Variables/variables.go)
+- 4.[Constants](https://github.com/Ziad-Elganzory/go-with-examples/blob/main/4.Constants/constants.go)
+- 5.[For Loop](https://github.com/Ziad-Elganzory/go-with-examples/blob/main/5.For%20Loop/for.go)
+- 6.[If-Else](https://github.com/Ziad-Elganzory/go-with-examples/blob/main/6.If-Else/if-else.go)
+- 7.[Switch](https://github.com/Ziad-Elganzory/go-with-examples/blob/main/7.Switch/switch.go)
 
 ## Getting Started
 
@@ -80,3 +80,6 @@ go run main.go
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
 
+## Socials:
+- [Linkedin]()
+- [X](https://www.linkedin.com/in/ziadmohamed770/)
