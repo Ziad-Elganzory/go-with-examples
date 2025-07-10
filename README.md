@@ -81,5 +81,4 @@ go run main.go
 Contributions are welcome! Please open issues or submit pull requests for improvements.
 
 ## Socials:
-- [Linkedin]()
-- [X](https://www.linkedin.com/in/ziadmohamed770/)
+- [Linkedin](https://www.linkedin.com/in/ziadmohamed770/)
